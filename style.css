@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+#navbar{
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(52,52,52,1) 100%);
+}
+.navbar-nav{
+    display: block;
+}
+.container{
+    margin: 20px;
+}
+
+.col-lg{
+    border-right: 1px double black;
+}
+#foto{
+    max-width: 500px;
+    max-height:500px;
+}
+#schoeninfo{
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+#modelc{
+    font-size:40px;
+}
+#brandc{
+    font-size: 28px;
+}
+#decadec{
+    font-size: 28px;
+}
+#artnumberc{
+    font-size: 28px;
+}
+#informationc{
+    font-size: 18px;
+}
+
+#blok{
+    background-color: whitesmoke;
+}
+
